@@ -1,5 +1,7 @@
 package Poker;
 
+import java.util.ArrayList;
+
 public class Poker {
 	
 	private int numeroJogadores;
