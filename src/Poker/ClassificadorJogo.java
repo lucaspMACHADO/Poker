@@ -43,6 +43,6 @@ public class ClassificadorJogo {
 	}
 	
 	private void buscaStraightFlush() {
-		//
+		//a
 	}
 }
